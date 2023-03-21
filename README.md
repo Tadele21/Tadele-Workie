@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadele1205&label=Profile%20views&color=0e75b6&style=flat" alt="tadele1205" /> </p>
 
-- I'm currently learning **React, Python, Java, Node**
+- I'm currently learning **React, Python, Java, JavaFX, Node.Js**
 
 - 📫 How to reach me **tade23dream@gmail.com**
 
-- ⚡ Something About me **I think I'm committed to do something if I decide to work the tasks..**
+- ⚡ Something About me   **I think I'm committed to do something if I decide to work the tasks..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
