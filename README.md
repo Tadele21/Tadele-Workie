@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadele1205&label=Profile%20views&color=0e75b6&style=flat" alt="tadele1205" /> </p>
 
-- I'm currently learning **React, Python, Java, JavaFX, Node.Js**
+- I'm currently learning **JavaScript, Python, Java, JavaFX, Node.Js**
 
 - 📫 How to reach me **tade23dream@gmail.com**
 
