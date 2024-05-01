@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tadele Workie</h1>
-<h3 align="center">An passinate Software Engineer from Ethiopia.</h3>
+<h3 align="center">A passinate Software Engineer from Ethiopia.</h3>
 <img  align = "right" alt = "coding" width = "400" src = "https://imgs.search.brave.com/XyZOcOojwsxr2A2Nr4e9R88PUkRdWX15gxLsyHEdNdo/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/RUg1dFVFUVJlV2U4/SXUtVUVWM1BnSGFG/aiZwaWQ9QXBp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadele1205&label=Profile%20views&color=0e75b6&style=flat" alt="tadele1205" /> </p>
 
 - I'm currently learning **JavaScript, Python, Java, JavaFX, Node.Js**
 
-- 📫 How to reach me **tade23dream@gmail.com**
+- 📫 How to reach me **tadeleworkie5@gmail.com**
 
-- ⚡ Something About me   **I think I'm committed to do something if I decide to work the tasks..**
+- ⚡ Something About me   **I'm dedicated to try something new.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
